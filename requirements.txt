@@ -1,0 +1,25 @@
+# Core Deep Learning
+torch>=1.13
+torchvision>=0.14
+
+# Super-Resolution Framework
+basicsr>=1.4.2
+realesrgan>=0.3.0
+
+# Geospatial Data Access
+earthengine-api>=0.1.380
+geemap>=0.28.0
+
+# Image Processing
+opencv-python-headless>=4.7.0
+numpy>=1.23
+Pillow>=9.5.0
+scikit-image>=0.21.0
+
+# Visualization / UI
+gradio>=4.0.0
+
+# Utilities
+requests>=2.31.0
+gdown>=4.7.1
+matplotlib>=3.7.0
